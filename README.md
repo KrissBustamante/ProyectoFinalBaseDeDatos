@@ -37,3 +37,4 @@ comentarios para que el autor logre entenderlo de mejor manera.
 ConsultasFinales.sql :
 En este archivo va a encontrar todos las Consultas hechas por mi persona
 dadas las tablas creadas anteriormente.
+*********************************************************************************
