@@ -33,4 +33,4 @@ En este archivo va a encontrar todos los "Creates" de las tablas y también
 está documentado el proceso
 de normalización que se utilizo para llegar a ellas, ademas de diversos 
 comentarios para que el autor logre entenderlo de mejor manera.
-
+---------------------------------------------------------------------------------
