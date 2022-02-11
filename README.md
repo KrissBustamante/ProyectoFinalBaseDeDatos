@@ -19,8 +19,7 @@ todos los datos de un archivo CSV
 aplicando diversos procesos como son: el de normalizacion 
 ademas de la carga de los datos de cada tabla 
 referente ala informacion dada de nuestra tabla universal
-==========================================================================
-============================================================================
+---------------------------------------------------------------------------------
 Descripción de los archivos cargados al repositorio:
 Informe de Proyecto Integrador Fundamentos 
 de Bases de Datos ProyectoFinalBaseDeDatosPresentacion :
@@ -28,8 +27,7 @@ En este archivo se encuentra las diapositivas utilizadas en la
 presentación del proyecto  con todo el proceso de 
 normalización aplicado de la tabla universar propuesta y sus respectiva 
 creacion de tablas y sus proecedimientos ropuestas a lo largo de la materia
-============================================================================
-============================================================================
+---------------------------------------------------------------------------------
 DDL_proyecto.sql :
 En este archivo va a encontrar todos los "Creates" de las tablas y también 
 está documentado el proceso
