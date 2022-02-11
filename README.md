@@ -1,15 +1,15 @@
 # ProyectoFinalBaseDeDatos
-Proyecto Final De Base De Datos
-Universidad Técnica Particular de Loja: La Universidad Católica de Loja
-Ingeniería en Ciencias de la Computación
-Materia: Fundamentos de Base de Datos - Año: 2021-2022  Meses:Octubre-Febrero
-Proyecto Final De Base De Datos:
-Ciclo de vida de bases de datos relacionales normalizadas
-Estudiante: Jhordan Kriss Bustamante Solano // Correo: jkbustamante1@utpl.edu.ec
-Link del proyecto en Github: 
-https://github.com/KrissBustamante/ProyectoFinalBaseDeDatos.git
-Profesor: Nelson Piedra // http://investigacion.utpl.edu.ec/nopiedra
-Fecha: Loja, 10 de febrero del 2022
+#### Proyecto Final De Base De Datos
+#### Universidad Técnica Particular de Loja: La Universidad Católica de Loja
+#### Ingeniería en Ciencias de la Computación
+#### Materia: Fundamentos de Base de Datos - Año: 2021-2022  Meses:Octubre-Febrero
+#### Proyecto Final De Base De Datos:
+#### Ciclo de vida de bases de datos relacionales normalizadas
+#### Estudiante: Jhordan Kriss Bustamante Solano // Correo: jkbustamante1@utpl.edu.ec
+#### Link del proyecto en Github: 
+#### https://github.com/KrissBustamante/ProyectoFinalBaseDeDatos.git
+#### Profesor: Nelson Piedra // http://investigacion.utpl.edu.ec/nopiedra
+#### Fecha: Loja, 10 de febrero del 2022
 Este proyecto fue elaborado  Jhordan Kriss Bustamante Solano 
 (KrissBustamante) estudiante de  tercer ciclo de la UTPL,
 con todos los conocimíentos adquiridos en la 
