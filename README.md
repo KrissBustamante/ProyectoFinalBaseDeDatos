@@ -28,9 +28,12 @@ presentación del proyecto  con todo el proceso de
 normalización aplicado de la tabla universar propuesta y sus respectiva 
 creacion de tablas y sus proecedimientos ropuestas a lo largo de la materia
 *********************************************************************************
-DDL_proyecto.sql :
+ProyectoFinal.sql :
 En este archivo va a encontrar todos los "Creates" de las tablas y también 
 está documentado el proceso
 de normalización que se utilizo para llegar a ellas, ademas de diversos 
 comentarios para que el autor logre entenderlo de mejor manera.
 *********************************************************************************
+ConsultasFinales.sql :
+En este archivo va a encontrar todos las Consultas hechas por mi persona
+dadas las tablas creadas anteriormente.
